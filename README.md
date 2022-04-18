@@ -1,5 +1,4 @@
-# Yaşar Birgül
-### **Game Developer & Architect** 
+# **Game Developer & Architect** 
 
 ###### Here you can find my resume :
 
