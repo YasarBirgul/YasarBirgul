@@ -1,4 +1,10 @@
-### Hi there 👋
+# Yaşar Birgül
+### **Game Developer & Architect** 
+
+###### Here you can find my resume :
+
+![Resume](https://user-images.githubusercontent.com/97702355/163800990-665a282e-a547-4b20-9983-7440fbfd418f.jpg)
+
 
 <!--
 **YasarBirgul/YasarBirgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
