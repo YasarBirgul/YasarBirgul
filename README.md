@@ -1,5 +1,7 @@
 # **Game Developer & Architect** 
-### I use Unity, C#, Maya, Illustrator, Git & Github to make games 
+### I use Unity, C# to Develope Games 
+### & SourceTree and Github for version Control
+
 
 ###### Here you can find my resume :
 
